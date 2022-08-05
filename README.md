@@ -1,4 +1,4 @@
-# Unsupervised-Learning-with-R
+# Dimensionality reduction with unsupervised learning techniques 
 
 **Unsupervised-Learning-With-R** 
 
